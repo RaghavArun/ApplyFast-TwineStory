@@ -38,23 +38,23 @@ ApplyFast was informed by contemporary scholarship on AI hiring systems, hiring 
 
 **Li, Lassiter, Oh, & Lee (2021)**  
 *Algorithmic Hiring in Practice: Recruiter and HR Professional’s Perspectives on AI Use in Hiring*  
-Found that AI hiring tools can improve efficiency and broaden candidate pools, while also creating concerns about trust, data accuracy, and recruiter control. :contentReference[oaicite:0]{index=0}
+Found that AI hiring tools can improve efficiency and broaden candidate pools, while also creating concerns about trust, data accuracy, and recruiter control.
 
 **Hunkenschroer & Kriebitz (2023)**  
 *Is AI recruiting (un)ethical? A human rights perspective on the use of AI for hiring*  
-Examines AI recruiting through privacy, transparency, autonomy, nondiscrimination, and fairness. Argues AI should complement human decision-makers rather than replace them. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+Examines AI recruiting through privacy, transparency, autonomy, nondiscrimination, and fairness. Argues AI should complement human decision-makers rather than replace them. 
 
 **Lee & Kim (2021)**  
 *Development of an AI-Based Interview System for Remote Hiring*  
-Describes AI interview systems that analyze facial expression, voice, language, and behavioral data in remote hiring contexts. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+Describes AI interview systems that analyze facial expression, voice, language, and behavioral data in remote hiring contexts. 
 
 **Canagasuriam & Lukacik (2024)**  
 *ChatGPT, can you take my job interview? Examining artificial intelligence use in interviews*  
-Suggests AI-generated interview answers may improve content scores while also being perceived as less authentic or potentially detectable. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+Suggests AI-generated interview answers may improve content scores while also being perceived as less authentic or potentially detectable. 
 
 **Rigotti & Fosch-Villaronga (2024)**  
 *Fairness, AI & Recruitment*  
-Explores how AI hiring systems can create bias, privacy risks, opacity, and unequal power dynamics between applicants and employers. Emphasizes fairness, accountability, and human oversight in automated recruitment. :contentReference[oaicite:7]{index=7}
+Explores how AI hiring systems can create bias, privacy risks, opacity, and unequal power dynamics between applicants and employers. Emphasizes fairness, accountability, and human oversight in automated recruitment. 
 
 These works helped shape the game’s focus on optimization pressure, identity loss, surveillance, automated decision-making, and mutual automation between applicants and employers.
 
